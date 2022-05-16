@@ -1,0 +1,10 @@
+var n=179;
+var c;
+var k;
+var d;
+var s;
+c=Math.floor(n%10);
+k=Math.floor(n%100/10);
+d=Math.floor(n/100);
+s=c+k+d;
+console.log(Math.floor(s));
