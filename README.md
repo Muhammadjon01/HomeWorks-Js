@@ -8,3 +8,5 @@ Lesson3-HomeWorks with Objects-Js
 Lesson4-HomeWorks with Arrays-Js
 
 Lesson5-HomeWorks with Methods-Js
+
+Lesson6- HomeWorks with DOM-Js
